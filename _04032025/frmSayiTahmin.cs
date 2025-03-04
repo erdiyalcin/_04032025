@@ -53,7 +53,7 @@ namespace _04032025
 
         private void frmSayiTahmin_Load(object sender, EventArgs e)
         {
-            OyunuBaslat();
+            OyunuBaslat(); // Oyun başladı
         }
 
         private void OyunuBaslat()
